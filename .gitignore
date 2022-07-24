@@ -15,6 +15,7 @@ homework/2020
 # Distribution / packaging
 .Python
 *.DS_Store
+.DS_Store
 build/
 develop-eggs/
 dist/
